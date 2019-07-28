@@ -1,2 +1,3 @@
-# olgr_tattsrng_dev_certs
-certificates for testing
+# OLGR TattsRNG Development Certificates
+
+This repo contains the most current certificates for testing
